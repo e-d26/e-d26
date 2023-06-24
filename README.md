@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eric Denny
+- 👀 I’m interested in Coding, Football, Anime....
+- 🌱 I’m currently learning in 11th Electronics.I am learning python by myself.
